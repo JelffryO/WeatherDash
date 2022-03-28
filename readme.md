@@ -23,7 +23,7 @@ THEN I am again presented with current and future conditions for that city
 https://jelffryo.github.io/WeatherDash/
 
 # Screenshot 
-https://imgur.com/a/g8mX2bI  
+https://imgur.com/N3lrw8n
 
 # GitHub Repository URL
 https://github.com/JelffryO/WeatherDash
