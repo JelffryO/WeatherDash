@@ -20,10 +20,10 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 # Website URL
-https://github.com/JelffryO/WeatherDash
+https://jelffryo.github.io/WeatherDash/
 
 # Screenshot 
 https://imgur.com/a/g8mX2bI  
 
 # GitHub Repository URL
-https://github.com/JelffryO/My-Portfolio
+https://github.com/JelffryO/WeatherDash
