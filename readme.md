@@ -20,7 +20,7 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 # Website URL
-https://jelffryo.github.io/My-Portfolio/
+https://github.com/JelffryO/WeatherDash
 
 # Screenshot 
 https://imgur.com/a/g8mX2bI  
